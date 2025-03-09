@@ -1,0 +1,44 @@
+.bg-container{
+    height:100px;
+     background-size: cover;
+ }
+.aside{
+    color:#ffffff;
+    background-color: rgb(74, 153, 193);
+    text-align: center;
+    width:20%;
+    padding:10px;
+    height: 100vh;
+    float:left;
+}
+.profile-img{
+    height: 100px;
+    width:90px;
+    border:solid;
+    border-color: #ffffff;
+    border-radius: 50%;
+}
+.heading2{
+    text-decoration: underline;
+    padding-bottom: 2px;
+}
+.boxstyle{
+        background-color: rgb(104, 152, 243);
+        padding:5px;
+        background-size: 50px;
+}
+.main-content{
+    width: 78%;
+    color: black;
+    background-color: #ffffff;
+    float:right;
+    height:100vh;
+    overflow-y: auto;
+    
+}
+.section2{
+    background-color: #F7E6B8;
+    padding:8px;
+    margin:10px;
+    padding-top: 3px;
+ }
